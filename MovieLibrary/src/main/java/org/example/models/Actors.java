@@ -1,5 +1,5 @@
 package org.example.models;
-
+// komentarz
 public class Actors
 {
     private String firstName;
